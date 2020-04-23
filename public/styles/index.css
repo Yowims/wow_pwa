@@ -5,7 +5,16 @@
         background-repeat: no-repeat;
     }
 }
-html{
+
+html
+{
     background-attachment: fixed;
     background-image: url('../images/accueil.jpg');
+}
+
+.git-hub-img
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
 }
