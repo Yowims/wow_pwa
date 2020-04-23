@@ -1,0 +1,24 @@
+{
+  "name": "wow_pwa",
+  "version": "1.0.0",
+  "description": "PWA pour tester l'API de World of Warcraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yowims/wow_pwa.git"
+  },
+  "author": "Doryan LOPEZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yowims/wow_pwa/issues"
+  },
+  "homepage": "https://github.com/Yowims/wow_pwa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
