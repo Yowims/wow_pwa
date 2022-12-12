@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Yowims/wow_pwa#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.3",
     "reload": "^3.0.4"
   }
